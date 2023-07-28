@@ -30,8 +30,8 @@ namespace CleaningCompanyMaster.Controllers
                 Surname = p.Surname,
                 UserName = p.UserName,
                 Email = p.Email,
-                Customer = p.Customer,
-                Master = p.Master
+                //Customer = p.Customer,
+                //Master = p.Master
                 
             };
 
